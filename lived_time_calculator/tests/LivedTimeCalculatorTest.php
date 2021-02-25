@@ -4,7 +4,7 @@ use PHPUnit\Framework\TestCase;
 class LivedTimeCalculatorTest extends TestCase
 {
     function testDate(){
-        $a = 12;
+        $a = 11;
         $b = 13;
         $c = 2001;
 
